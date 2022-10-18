@@ -1,28 +1,6 @@
 //////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
 //
 // Title: ArtGalleryTester.java
-// Course: CS 300 Spring 2022
-//
-// Author: Marin Suzuki
-// Email: msuzuki9@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name: Xingzhen Cai
-// Partner Email: xcai79@wisc.edu
-// Partner Lecturer's Name: Hobbes LeGault
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-// _X__ Write-up states that pair programming is allowed for this assignment.
-// _X__ We have both read and understand the course Pair Programming Policy.
-// _X__ We have registered our team prior to the team registration deadline.
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons: None
-// Online Sources: None
-//
 ///////////////////////////////////////////////////////////////////////////////
 
 import java.util.NoSuchElementException;
